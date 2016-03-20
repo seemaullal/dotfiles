@@ -1,0 +1,9 @@
+[credential]
+	helper = cache
+[user]
+	email = seema.ullal@zenpayroll.com
+	name = Seema Ullal
+[push]
+	default = simple
+[alias]
+	co = checkout

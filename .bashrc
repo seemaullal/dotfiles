@@ -2,7 +2,6 @@
 export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
 export STE_DRB_URI="druby://localhost:3777"
 
-alias zp='cd /Users/seema/Repos/zenpayroll/'
 alias cache-money='devproxy -c script/devproxy_config.coffee'
 alias fast-zeus='SERVER_ASSET_PORT=:3100 zeus start'
 alias log="git log --graph --pretty=format:'%Cred%h%Creset %C(cyan)%an%Creset -%C(blue)%d%Creset %s %Cgreen(%cr)%Creset' --abbrev-commit --date=relative"
